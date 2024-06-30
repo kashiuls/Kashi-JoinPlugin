@@ -1,0 +1,15 @@
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\Kashi-JoinPlugin.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\Kashi-JoinPlugin.pdb
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\Assembly-CSharp.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\Rocket.API.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\Rocket.Core.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\Rocket.Unturned.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\bin\Debug\UnityEngine.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\obj\Debug\Kashi-JoinPlugin.csproj.AssemblyReference.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\obj\Debug\Kashi-JoinPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\obj\Debug\Kashi-Jo.DE89309B.Up2Date
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\obj\Debug\Kashi-JoinPlugin.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-JoinPlugin\Kashi-JoinPlugin\obj\Debug\Kashi-JoinPlugin.pdb
